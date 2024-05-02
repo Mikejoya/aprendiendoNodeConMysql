@@ -1,0 +1,17 @@
+{
+  "name": "parte3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "servor": "^4.0.2",
+    "zod": "3.22.4"
+  }
+}

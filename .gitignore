@@ -1,0 +1,23 @@
+# Archivos generados por el sistema operativo
+.DS_Store
+
+# Archivos de logs y bases de datos
+*.log
+*.sqlite
+
+# Directorio donde se almacenan las dependencias y bibliotecas de terceros
+/node_modules
+
+# Archivos de construcción o compilados
+/build
+/dist
+
+# Archivos de configuración de IDEs y editores de texto
+.idea/
+.vscode/
+
+# Archivos de entorno
+.env
+
+# Archivos de respaldo
+*.bak

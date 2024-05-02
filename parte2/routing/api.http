@@ -1,0 +1,16 @@
+### Recuperar informacion del sitio.
+
+GET http://localhost:1234/pokemon/ditto
+
+### Creacion de nuevo pokemon.
+
+POST http://localhost:1234/pokemon
+Content-Type: application/json
+
+{
+    "name": "ditto",
+    "type": "normal",
+    "moves": [
+        "transform"
+    ]
+}
